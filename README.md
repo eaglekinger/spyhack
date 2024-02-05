@@ -1,1 +1,1 @@
-# spyhack
+spyhack bir kamera hack türüdür 
