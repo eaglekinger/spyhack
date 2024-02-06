@@ -33,7 +33,7 @@ printf "                 [|]          \n"
 printf "              \_______/       \n"
 printf "               v     v        \n"
 printf "                ^___^         \n"
-printf "\e[1;92m   𝗖𝗔𝗠 𝗗𝗨𝗠𝗣𝗘𝗥      \e[0m\n"
+printf "\e[1;92m   SPY CAM HACK      \e[0m\n"
 
 
 printf " \e[1;77m tool created by KOMIK3R ,LiNuX-Mallu\e[0m \n"
